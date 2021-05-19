@@ -17,15 +17,12 @@ const App = () => {
 
 
             </View>
-        </TouchableWithoutFeedback>
-
-
+           </TouchableWithoutFeedback>
 
         </>
 
       );
 }
-
 
 const styles = StyleSheet.create({
     app:{

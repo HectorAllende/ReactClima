@@ -4,8 +4,6 @@ import { StyleSheet, View, TouchableWithoutFeedback, Keyboard, Alert } from 'rea
 import Formulario from './components/Formulario'
 import Clima from './components/Clima'
 
-
-
 const App = () => {
 
   const [busqueda, guardarBusqueda]= useState({
